@@ -1,5 +1,4 @@
 # 🧠 Face Data Compression & Representation Using Avengers Faces
-
 This project explores the compression and reconstruction of facial data using the <a href='https://www.kaggle.com/datasets/yasserh/avengers-faces-dataset'>**Avengers Faces dataset**</a>. By applying and comparing multiple **dimensionality reduction techniques**.
 
 ---
@@ -54,18 +53,20 @@ We experiment with both linear and nonlinear dimensionality reduction techniques
 
 ---
 
-# Streamlit App
+# 🌐 Streamlit App
+https://face-data-compression-representation.streamlit.app
 
 - Upload a face image (or choose from sample Avengers faces)
 - Select a dimensionality reduction technique(compression method)
 - Choose number of dimensions (compression level)
 
-## 1. Face Compression & Reconstruction
+## 💫 Face Compression & Reconstruction
 - See original vs reconstructed face side by side
 
-## 2. Face 2D and 3D Visualization
+## 📊 Face 2D and 3D Visualization
 - See 2D/3D visualizations of embeddings
 
 ---
+
 # 📜 License
 This project is licensed under the **MIT License**. Copyright (c) 2025 Ameur.
