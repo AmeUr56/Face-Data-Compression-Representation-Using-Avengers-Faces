@@ -53,5 +53,19 @@ We experiment with both linear and nonlinear dimensionality reduction techniques
 - Color-code embeddings based on character identities
 
 ---
+
+# Streamlit App
+
+- Upload a face image (or choose from sample Avengers faces)
+- Select a dimensionality reduction technique(compression method)
+- Choose number of dimensions (compression level)
+
+## 1. Face Compression & Reconstruction
+- See original vs reconstructed face side by side
+
+## 2. Face 2D and 3D Visualization
+- See 2D/3D visualizations of embeddings
+
+---
 # 📜 License
 This project is licensed under the **MIT License**. Copyright (c) 2025 Ameur.
